@@ -8,7 +8,8 @@ html {
   width: 432px;
   height: 720px;
   position: relative;
-  margin: auto auto;
+  margin: 0 auto;
+  margin-top: 150px;
 }
 
 #homer::after {
